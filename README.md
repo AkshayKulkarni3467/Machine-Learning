@@ -15,3 +15,7 @@
 
 ![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/7d546428-3ca5-45fd-a803-82ca46e5d829)
 
+5) Ridge Regularization
+
+![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/97f13ecf-09ee-4c00-a3cc-347c2f714287)
+
