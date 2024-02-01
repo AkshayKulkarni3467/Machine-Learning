@@ -10,3 +10,8 @@
 3) Gradient Descent
 
 ![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/803b03f5-8467-45b5-b8c9-70eca9e291da)
+
+4) Polynomial regression
+
+![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/7d546428-3ca5-45fd-a803-82ca46e5d829)
+
