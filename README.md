@@ -23,4 +23,6 @@
 
 ![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/c95a0eed-18fe-4a18-b53b-d776e37a87c8)
 
+7) Logistic Regression
 
+![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/9d831666-417e-400c-a3d8-a24f46ad0845)
