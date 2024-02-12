@@ -26,3 +26,8 @@
 7) Logistic Regression
 
 ![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/9d831666-417e-400c-a3d8-a24f46ad0845)
+
+8) Softmax Regression
+
+![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/bea25d1f-dcf8-43c1-ac5d-848718bb463e)
+
