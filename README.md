@@ -31,3 +31,8 @@
 
 ![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/bea25d1f-dcf8-43c1-ac5d-848718bb463e)
 
+9) Decision Trees
+
+![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/3ec3a79b-abc4-45ab-a07c-cf6043fc7898)
+
+
