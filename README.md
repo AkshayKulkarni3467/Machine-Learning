@@ -43,3 +43,7 @@
 
 ![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/c07b40eb-d4f9-4e6d-947b-0e31ead37ac3)
 
+12) Adaboost Visualization
+
+![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/2c745207-1e9b-49a6-9e45-73d8539624d0)
+
