@@ -35,4 +35,8 @@
 
 ![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/3ec3a79b-abc4-45ab-a07c-cf6043fc7898)
 
+10) Random Forest
+
+![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/7d1ccb7b-1911-477d-ba70-218ff209551f)
+
 
