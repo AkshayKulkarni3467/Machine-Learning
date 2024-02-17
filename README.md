@@ -63,4 +63,7 @@
 
 ![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/068841f4-aa8e-4e31-981b-25160554af5b)
 
+17) KNN Visualization
+
+![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/eef33ece-c8ec-4727-977b-52d62c406c30)
 
