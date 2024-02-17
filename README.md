@@ -47,3 +47,8 @@
 
 ![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/2c745207-1e9b-49a6-9e45-73d8539624d0)
 
+13) KMeans clustering
+
+![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/0ce35c76-8a42-4a2d-b62e-89f92b7e899a)
+
+
