@@ -51,4 +51,9 @@
 
 ![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/0ce35c76-8a42-4a2d-b62e-89f92b7e899a)
 
+14) Gradient boosting visualization
+
+![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/89c924f0-87cb-485b-8033-4b921a5a4322)
+
+
 
