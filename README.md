@@ -59,5 +59,8 @@
 
 ![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/1e2a2171-7cd8-4e9c-a31b-2d1f637c5bdb)
 
+16) Agglomerative Clustering
+
+![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/068841f4-aa8e-4e31-981b-25160554af5b)
 
 
