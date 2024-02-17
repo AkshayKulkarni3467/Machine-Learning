@@ -55,5 +55,9 @@
 
 ![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/89c924f0-87cb-485b-8033-4b921a5a4322)
 
+15) Ensemble technique: stacking
+
+![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/1e2a2171-7cd8-4e9c-a31b-2d1f637c5bdb)
+
 
 
