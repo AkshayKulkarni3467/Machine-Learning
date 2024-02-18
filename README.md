@@ -75,6 +75,11 @@
 
 ![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/19f440c7-c0b2-4d75-9cae-6b04ec2e9f12)
 
+20) Roc curve for Logistic regression and SVM models:
+
+![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/e07dfc14-9238-485e-9519-4be82a0f2cea)
+
+
 20) DBSCAN clustering algorithm
 
 ![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/087e4c45-038a-4d0b-9512-46c5c11a7872)
