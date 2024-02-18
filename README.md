@@ -71,4 +71,8 @@
 
 ![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/591ea372-5f15-43b6-9fb9-48ef6cf61ac6)
 
+19) Deriving feature importance from xgboost
+
+![image](https://github.com/AkshayKulkarni3467/Machine-Learning/assets/129979542/19f440c7-c0b2-4d75-9cae-6b04ec2e9f12)
+
 
